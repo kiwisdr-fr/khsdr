@@ -1,0 +1,63 @@
+[
+        {
+        "name": "Web888 | 0 - 30 MHz",
+        "type": "web888",
+        "location": "Kirov, Russia",
+        "maplocation": {
+            "lat": 58.570000, 
+            "lon": 49.890000
+        },
+        "link": "http://89.207.73.182:8073/"
+    },
+    {
+        "name": "Web888 | 0 - 30 MHz",
+        "type": "web888",
+        "location": "Kaustinen, Finland",
+        "maplocation": {
+            "lat": 63.560000, 
+            "lon": 23.710000
+        },
+        "link": "http://sdr.vy.fi/"
+    },
+    {
+        "name": "Web888 | 0 - 30 MHz",
+        "type": "web888",
+        "location": "Priladozhskiy, Russia",
+        "maplocation": {
+            "lat": 59.880000, 
+            "lon": 31.330000
+        },
+        "link": "http://94.140.246.150:8073/"
+    },
+    {
+        "name": "Web888 | 0 - 30 MHz",
+        "type": "web888",
+        "location": "Grigoropolisskaya, Russia",
+        "maplocation": {
+            "lat": 45.293052, 
+            "lon": 41.048807
+        },
+        "link": "http://alexzulu.ru:8073/"
+    },
+    {
+        "name": "Web888 | 0 - 30 MHz",
+        "type": "web888",
+        "location": "Tula, Russia",
+        "maplocation": {
+            "lat": 54.168500, 
+            "lon": 37.598700
+        },
+        "link": "http://5.164.29.210:8073/"
+    },
+    {
+        "name": "KiwiSDR bluebison | 0 - 30 MHz",
+        "type": "kiwisdr",
+        "location": "Kokkola, Finland",
+        "maplocation": {
+            "lat": 63.835500, 
+            "lon": 22.957000
+        },
+        "link": "http://kiwisdr.oh6ai.fi:8073/"
+    }
+]
+
